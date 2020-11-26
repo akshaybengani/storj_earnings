@@ -13,3 +13,4 @@ cd storj_earnings
 python3 earnings.py earning_check/
 exit
 sudo rm -rf storj_earnings
+ls
