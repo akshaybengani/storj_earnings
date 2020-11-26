@@ -11,3 +11,5 @@ git clone https://github.com/akshaybengani/storj_earnings
 mv earning_check storj_earnings/
 cd storj_earnings
 python3 earnings.py earning_check/
+exit
+sudo rm -rf storj_earnings
